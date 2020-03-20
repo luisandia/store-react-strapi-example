@@ -1,0 +1,1 @@
+# store-react-strapi-example
